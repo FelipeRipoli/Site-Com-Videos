@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+header h1{
+    text-align: center;
+}
+section p a{
+    text-decoration: none;
+    text-align: center;
+}
+section p a:hover{
+    text-decoration: underline;
+}
+footer p a{
+    text-decoration: none;
+    background-color: rgb(100, 139, 224);
+}
+footer p a:hover{
+    text-decoration: underline;
+    border-radius: 3px;
+}
